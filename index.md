@@ -1,1 +1,3 @@
-This is my page.
+layout: default
+
+permalink: /
